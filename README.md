@@ -7,7 +7,6 @@
 
 
 ![输入图片说明](http://www.51duoke.cn/quanzi/images/head2.jpg)
-![输入图片说明](%E5%AE%98%E6%96%B9%E5%AE%A2%E6%9C%8D+%E5%AE%98%E6%96%B9%E8%AE%A8%E8%AE%BA%E7%BE%A4.jpeg)
 
 <h3 align="center">多客圈子社区系统免费开源版1.2.1版</h3> 
   
