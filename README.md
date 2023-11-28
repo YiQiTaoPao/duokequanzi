@@ -227,11 +227,7 @@ if (!-e  request_filename){ rewrite ^(.*)  /index.php?s=$1 last; break;
 
  ![输入图片说明](http://www.51duoke.cn/quanzi/images/naotu.png)
 ![输入图片说明](%E5%AE%98%E6%96%B9%E5%AE%A2%E6%9C%8D+%E5%AE%98%E6%96%B9%E8%AE%A8%E8%AE%BA%E7%BE%A4.jpeg)
-### 【商业版更新日志/只展示大部分更新内容，可详询】
-![输入图片说明](4fa72d70-3d66-11ed-bda0-3ba56593726a_1.jpg)
-![输入图片说明](%E6%9B%B4%E6%96%B01.png)
-![输入图片说明](%E6%9B%B4%E6%96%B02.png)
-![输入图片说明](%E6%9B%B4%E6%96%B03.png)
+### 【商业版更新日志更新内容，可详询】
 
 ## 特别鸣谢
 
