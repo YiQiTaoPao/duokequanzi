@@ -6,6 +6,7 @@
 
 
 ### 咨询查看商业版演示
+![image](https://github.com/user-attachments/assets/43fcb0f3-d5c5-4c50-b4aa-bc9a55c3121b)
 
 
 #### 软件架构
@@ -27,6 +28,7 @@
 
 ### 前端展示/安装咨询获取源码
 https://gitee.com/DKkaiyuan/quan
+![image](https://github.com/user-attachments/assets/80b244ea-f318-442f-bb2a-539c72a6a010)
 
 ### 指南教程：
 
