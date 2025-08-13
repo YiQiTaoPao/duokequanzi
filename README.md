@@ -27,7 +27,7 @@
 
 
 ### 前端展示/安装咨询获取源码
-https://gitee.com/DKkaiyuan/quan
+(https://www.51duoke.cn/games/?id=1)
 ![image](https://github.com/user-attachments/assets/80b244ea-f318-442f-bb2a-539c72a6a010)
 
 ### 指南教程：
